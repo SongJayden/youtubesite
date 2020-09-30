@@ -1,4 +1,6 @@
 # Responsive youtubesite clone cording
+[Check on the website](https://songjayden.github.io/youtubesite/)
+
  ### Development with HTML, CSS, Javascript
 
 ## 1. Main Page
