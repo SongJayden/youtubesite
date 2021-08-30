@@ -63,7 +63,7 @@ header .icons .fa-search {
 .player video {
   width: 80%;
   height: 80%;
-  max-width: 500px;
+  max-height: 400px;
 }
 .infoAndUpnext .info {
   padding: var(--padding);
